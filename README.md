@@ -10,7 +10,7 @@ This project is built up of Spring Boot 1.5.6 Release and the Spring Framework 4
 
 The intent of this project is making you to build your own project faster.
 
-### Package and Run
+#### Package and Run
 This project uses Maven to manage dependency and package. 
 You can use below command to package your project and run the jar.
 + $ mvn package
