@@ -8,7 +8,7 @@ public class Default {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Home page.";
+		return "Default page.";
 	}
 
 }
